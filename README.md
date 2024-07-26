@@ -129,7 +129,7 @@ enjoy!
 
 4. better way to restart the game and separate screens for start and end
 
-5. make the game harder as the game improves
+5. make the game harder as the game progresses
 
 6. make multiple sized cacti
 
